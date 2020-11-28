@@ -1,7 +1,6 @@
 <template>
   <div class="container">
     <div>
-      <Logo />
       <h1 class="title bg-">
         industry-app
       </h1>
