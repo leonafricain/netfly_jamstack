@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      <h1 class="title bg-gray-300">
+      <h1 class="title bg-gray-700 text-white">
         Hello from Nuxt js
       </h1>
          </div>
