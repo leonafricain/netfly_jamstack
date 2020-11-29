@@ -1,20 +1,10 @@
 <template>
   <div class="container">
     <div>
-      <h1 class="title bg-">
-        industry-app
+      <h1 class="title bg-gray-300">
+        Hello from Nuxt js
       </h1>
-      <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--green"
-        >
-          Documentation
-        </a>
-             </div>
-    </div>
+         </div>
   </div>
 </template>
 
